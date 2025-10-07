@@ -1,0 +1,20 @@
+1001 | USB Cable | Electronics | 1m Type-C cable | 5.99
+1002 | Notebook | Stationery | A5 ruled notebook | 2.49
+1003 | Wireless Mouse | Electronics | Ergonomic wireless mouse | 15.99
+1004 | Pen | Stationery | Blue ink ballpoint pen | 0.99
+1005 | Monitor | Electronics | 24-inch LED monitor | 129.99
+1006 | Stapler | Stationery | Standard office stapler | 6.49
+1007 | Keyboard | Electronics | Mechanical keyboard | 49.99
+1008 | Highlighter | Stationery | Yellow highlighter pen | 1.29
+1009 | Webcam | Electronics | HD webcam with mic | 39.99
+1010 | Folder | Stationery | Plastic document folder | 1.99
+1011 | Laptop Stand | Electronics | Adjustable laptop stand | 25.99
+1012 | Sticky Notes | Stationery | Pack of 100 sticky notes | 3.49
+1013 | Headphones | Electronics | Over-ear headphones | 59.99
+1014 | Scissors | Stationery | Office scissors | 2.99
+1015 | Power Bank | Electronics | 10000mAh power bank | 22.99
+1016 | Glue Stick | Stationery | Non-toxic glue stick | 1.49
+1017 | Smartphone Stand | Electronics | Foldable phone stand | 9.99
+1018 | Eraser | Stationery | Soft rubber eraser | 0.79
+1019 | Bluetooth Speaker | Electronics | Portable speaker | 34.99
+1020 | Ruler | Stationery | 30cm plastic ruler | 1.19

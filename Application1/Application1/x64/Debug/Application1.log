@@ -1,0 +1,3 @@
+﻿  Application1.cpp
+C:\src\Databases1\Databases1\Application1\Application1\Application1.cpp(265,1): warning C4715: 'getBool': not all control paths return a value
+  Application1.vcxproj -> C:\src\Databases1\Databases1\Application1\x64\Debug\Application1.exe
